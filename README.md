@@ -1,6 +1,6 @@
 # Simple CRUD App using Vue.js + Apollo + GraphQL and BootstrapVue
 
-This is the client app, to use this project simply clone it on your local device then do as in the command below. For the DB app you can visit my other repositories
+This is the client app, to use this project simply clone it on your local device then do as in the command below. For the DB app you can visit [this repositories](https://github.com/danasaurus45/GraphQL-for-CRUD.git)
 
 ## Project setup
 ```
